@@ -1,0 +1,4 @@
+Python 
+ SQL 
+ ExcelPower Bi
+ Power Bi
